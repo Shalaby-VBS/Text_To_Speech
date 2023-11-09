@@ -1,16 +1,17 @@
-# text_to_speech_package
+# 🏵 Text To Speech
 
-A new Flutter project.
+Simple UI Screen 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Text_To_Speech/assets/149938388/0b3317b4-7adf-461b-b85c-d3fd7968a9b3
+
+
+## 🛠 Dependencies
+
+1️⃣ text_to_speech: ^0.2.3
